@@ -8,3 +8,5 @@ Programs Included:
 - Product of Array
 - Find Unique Elements
 - Find Common Elements of Two Arrays
+- swapping maximum and minimum elements of array
+- finding frequency of each element in array

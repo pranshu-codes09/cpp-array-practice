@@ -10,3 +10,4 @@ Programs Included:
 - Find Common Elements of Two Arrays
 - swapping maximum and minimum elements of array
 - finding frequency of each element in array
+- Merging two sorted arrays

@@ -11,3 +11,4 @@ Programs Included:
 - swapping maximum and minimum elements of array
 - finding frequency of each element in array
 - Merging two sorted arrays
+- Next permutation

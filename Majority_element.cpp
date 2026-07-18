@@ -7,7 +7,6 @@ int main() {
     int size = sizeof(arr)/sizeof(int);
     int candidate = 0;
     int count = 0;
-    int printed[size] = {false};
     for(int i = 0;i<size;i++){
         if (count == 0){
             candidate = arr[i];

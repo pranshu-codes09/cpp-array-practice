@@ -12,3 +12,4 @@ Programs Included:
 - finding frequency of each element in array
 - Merging two sorted arrays
 - Next permutation
+- Majority element in array
